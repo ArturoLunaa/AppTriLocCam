@@ -1,0 +1,17 @@
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\bin\Debug\netstandard2.0\AppTriLocCam.deps.json
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\bin\Debug\netstandard2.0\AppTriLocCam.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\bin\Debug\netstandard2.0\ref\AppTriLocCam.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\bin\Debug\netstandard2.0\AppTriLocCam.pdb
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\obj\Debug\netstandard2.0\AppTriLocCam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\obj\Debug\netstandard2.0\Views\CameraPage.xaml.g.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\obj\Debug\netstandard2.0\Views\LocationPage.xaml.g.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\obj\Debug\netstandard2.0\Views\TabsPage.xaml.g.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\obj\Debug\netstandard2.0\Views\TriggerPage.xaml.g.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\obj\Debug\netstandard2.0\AppTriLocCam.AssemblyInfoInputs.cache
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\obj\Debug\netstandard2.0\AppTriLocCam.AssemblyInfo.cs
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\obj\Debug\netstandard2.0\AppTriLocCam.csproj.CoreCompileInputs.cache
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\obj\Debug\netstandard2.0\AppTriLocCam.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\obj\Debug\netstandard2.0\ref\AppTriLocCam.dll
+C:\Users\artur\OneDrive\Documentos\Desarrollo movil Windows\AppTriLocCam\AppTriLocCam\obj\Debug\netstandard2.0\AppTriLocCam.pdb
